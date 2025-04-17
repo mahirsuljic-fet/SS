@@ -1,1 +1,1 @@
-# SS
+# Sekvencijalni sklopovi (SS)
